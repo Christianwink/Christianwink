@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Christianwink
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning CSS and HTML5
-- 💞️ I’m looking to collaborate as a junior game Dev
+- 🌱 I’m currently Working with Big Moxi Games as a QA and C++ Developer
 - 📫 How to reach me Chriswink@hotmail.com
 
 <!---
